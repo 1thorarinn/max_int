@@ -3,6 +3,7 @@
 # Step 2: Loop through input from user
 # Step 3: Stop loop if input from user is negative
 # Step 4: Print out highest number
+# https://github.com/1thorarinn/max_int.git
 
 run = True;
 max_int = 0
